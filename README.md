@@ -51,7 +51,7 @@ npm install -g @nestjs/cli
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/inf781-jwt-sessions.git
+git clone https://github.com/Alexiowo/-inf781-jwt-sessions.git
 ```
 
 Ingresar al proyecto
